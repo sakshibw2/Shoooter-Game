@@ -2,9 +2,9 @@
 
 ## Objectives
 
-* Begin my journey in Python by createing a shooter game
+* Begin my journey in Python by creating a shooter game
 * Attack and dodge enemy ships using lasers
-* Survive all 5 lives, and climb to your highest level 
+* Use your 5 lives to survive and climb to the highest level
 
 ## Technologies Used
 
